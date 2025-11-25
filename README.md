@@ -6,13 +6,13 @@
 - 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering (2nd Year)**  
 - 🌱 I’m learning **Full Stack Web Development, UI/UX, and AI**
   
-<h5>How to reach me : amani1231.aasram@gmail.com </h5>
+<h5>How to reach me : aryanassit@gmail.com </h5>
 
 ---
 
 ### 📊 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Code31&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Code31&layout=compact&theme=radical)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Code31&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Code31&layout=compact&theme=radical)
 
 ---
 
