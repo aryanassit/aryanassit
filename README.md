@@ -14,8 +14,6 @@ I'm a student with a keen interest in frontend web development. I love creating 
 - **Soft Skills**: Problem-Solving, Teamwork, Quick Learner  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanassit&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanassit&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanassit&theme=radical&hide_border=true)  
 
 ## 🛠️ Featured Projects
