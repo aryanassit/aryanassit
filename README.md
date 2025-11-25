@@ -1,7 +1,7 @@
 # Hi, I'm Aryan Sharma! 👋
 
 **Frontend Developer | Student | Passionate about Building User-Friendly Web Apps**  
-📍 Gurugram, India | 📧 aryansharma081506@gmail.com | 🔗 [LinkedIn]()  
+📍 Gurugram, India | 📧 aryansharma081506@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sharma-584a16378/)  
 
 I'm a student with a keen interest in frontend web development. I love creating intuitive and responsive digital experiences. Currently exploring new technologies while working on projects like Campus to Corporate and Librohub. Always open to collaborations and learning opportunities!
 
