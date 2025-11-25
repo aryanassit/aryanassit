@@ -5,6 +5,7 @@
 
 I'm a student with a keen interest in frontend web development. I love creating intuitive and responsive digital experiences. Currently exploring new technologies while working on projects like Campus to Corporate and Librohub. Always open to collaborations and learning opportunities!
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🚀 Skills & Technologies
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
 - **Tools**: Git, VS Code, GitHub  
@@ -12,9 +13,6 @@ I'm a student with a keen interest in frontend web development. I love creating 
 - **Soft Skills**: Problem-Solving, Teamwork, Quick Learner  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansharma081506&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma081506&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryansharma081506&theme=radical&hide_border=true)  
 
 ## 🛠️ Featured Projects
 Here are some of my key projects showcasing my frontend skills:
