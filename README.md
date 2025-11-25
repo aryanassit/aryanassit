@@ -1,19 +1,54 @@
-<h1 align="center">Hi 👋, I'm aryan </h1>
-<h3 align="center">A Passionate B.Tech CSE Student | Future Full Stack Developer | Exploring AI & Open Source</h3>
+# Hi, I'm Aryan Sharma! 👋
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+**Frontend Developer | Student | Passionate about Building User-Friendly Web Apps**  
+📍 Gurugram, India | 📧 aryansharma081506@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🌐 [Portfolio](https://yourportfolio.com)  
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering (2nd Year)**  
-- 🌱 I’m learning **Full Stack Web Development, UI/UX, and AI**
-  
-<h5>How to reach me : aryanassit@gmail.com </h5>
+I'm a student with a keen interest in frontend web development. I love creating intuitive and responsive digital experiences. Currently exploring new technologies while working on projects like Campus to Corporate and Librohub. Always open to collaborations and learning opportunities!
 
----
+## 🚀 Skills & Technologies
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Tools**: Git, VS Code, GitHub  
+- **Learning**: React, Node.js (upcoming)  
+- **Soft Skills**: Problem-Solving, Teamwork, Quick Learner  
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansharma081506&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma081506&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryansharma081506&theme=radical&hide_border=true)  
 
----
+## 🛠️ Featured Projects
+Here are some of my key projects showcasing my frontend skills:
 
-## ✨ Let's Build Something Amazing Together!
+### Campus to Corporate
+- **Description**: A web platform connecting students with corporate opportunities, featuring job listings, internships, and career resources. Built with a focus on mobile responsiveness and user-friendly navigation.  
+- **Technologies**: HTML, CSS, JavaScript, Bootstrap  
+- **Live Demo**: [Link to deployed site, if available]  
+- **Repository**: [GitHub Link](https://github.com/aryansharma081506/campus-to-corporate)  
+- **Highlights**: Presented in college; received feedback for excellent UX.  
+
+### Librohub
+- **Description**: An online library management system for browsing, searching, and managing book collections. Includes user authentication, recommendations, and an admin panel.  
+- **Technologies**: HTML, CSS, JavaScript, Basic Backend (e.g., Local Storage)  
+- **Live Demo**: [Link to deployed site, if available]  
+- **Repository**: [GitHub Link](https://github.com/aryansharma081506/librohub)  
+- **Highlights**: College project demonstrating interactive frontend design.  
+
+*Check out my repositories for more!*
+
+## 🌟 Achievements & Contributions
+- Active contributor to open-source projects (e.g., [mention any if applicable]).  
+- Participated in tech workshops and coding clubs during school.  
+- Completed [number] commits in [timeframe] – building consistency!  
+
+## 📈 Current Focus
+- Enhancing skills in React and full-stack development.  
+- Contributing to community projects on GitHub.  
+- Seeking internships or collaborations in web development.  
+
+## 📫 Let's Connect!
+Feel free to reach out for collaborations, feedback, or just to chat about tech!  
+- **Email**: aryansharma081506@gmail.com  
+- **GitHub**: [Follow me](https://github.com/aryansharma081506)  
 
 
 
