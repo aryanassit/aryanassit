@@ -10,9 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Code31&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Code31&layout=compact&theme=radical)
 
 ---
 
