@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Verma</h1>
+<h1 align="center">Hi 👋, I'm aryan </h1>
 <h3 align="center">A Passionate B.Tech CSE Student | Future Full Stack Developer | Exploring AI & Open Source</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
