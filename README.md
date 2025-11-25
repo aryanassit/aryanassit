@@ -1,7 +1,7 @@
 # Hi, I'm Aryan Sharma! 👋
 
 **Frontend Developer | Student | Passionate about Building User-Friendly Web Apps**  
-📍 Gurugram, India | 📧 aryansharma081506@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🌐 [Portfolio](https://yourportfolio.com)  
+📍 Gurugram, India | 📧 aryansharma081506@gmail.com | 🔗 [LinkedIn]()  
 
 I'm a student with a keen interest in frontend web development. I love creating intuitive and responsive digital experiences. Currently exploring new technologies while working on projects like Campus to Corporate and Librohub. Always open to collaborations and learning opportunities!
 
@@ -14,6 +14,9 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 ## 📊 GitHub Stats
 
+
+
+
 ## 🛠️ Featured Projects
 Here are some of my key projects showcasing my frontend skills:
 
@@ -21,14 +24,13 @@ Here are some of my key projects showcasing my frontend skills:
 - **Description**: A web platform connecting students with corporate opportunities, featuring job listings, internships, and career resources. Built with a focus on mobile responsiveness and user-friendly navigation.  
 - **Technologies**: HTML, CSS, JavaScript, Bootstrap  
 - **Live Demo**: [Link to deployed site, if available]  
-- **Repository**: [GitHub Link](https://github.com/aryansharma081506/campus-to-corporate)  
 - **Highlights**: Presented in college; received feedback for excellent UX.  
 
 ### Librohub
 - **Description**: An online library management system for browsing, searching, and managing book collections. Includes user authentication, recommendations, and an admin panel.  
 - **Technologies**: HTML, CSS, JavaScript, Basic Backend (e.g., Local Storage)  
 - **Live Demo**: [Link to deployed site, if available]  
-- **Repository**: [GitHub Link](https://github.com/aryansharma081506/librohub)  
+- **Repository**: [GitHub Link](https://github.com/aryanassit/library-system.git)  
 - **Highlights**: College project demonstrating interactive frontend design.  
 
 *Check out my repositories for more!*
