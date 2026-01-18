@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm [ARYAN]
+# Hi 👋, I'm ARYAN
 
 ### A passionate developer from gurugram
 
