@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""asset.png"" alt="Profile Banner" width="100%" />
+  <img src=""https://github.com/aryanassit/aryanassit/commit/1cc10ada1f22e392f8f02ed224d45f32b2c70cb0"" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
