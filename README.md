@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOOOO.png" width="900" />
+  <img src="YOOOO.png" width="700" />
 </p>
 
 # Hi 👋, I'm ARYAN
@@ -43,7 +43,7 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 ### LIBROHUB
 <p align="center">
-  <img src="Screenshot 2026-01-18 112005.png" width="700" />
+  <img src="Screenshot 2026-01-18 112005.png" width="500" />
 </p>
 
 ## 🎓 Education
