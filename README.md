@@ -4,11 +4,11 @@
 
 <div align="center">
 
-# Hi 👋, I'm ARYAN
+# Hi 👋, I'm [ARYAN]
 
 ### A passionate developer from gurugram
 
-<img src=""C:\Users\Dell\Downloads\ChatGPT Image Jan 18, 2026, 11_12_48 AM.png"" alt="ARYAN" width="150" height="150" style="border-radius: 50%;" />
+<img src=""C:\Users\Dell\Downloads\ChatGPT Image Jan 18, 2026, 11_12_48 AM.png"" alt="[ARYAN]" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
