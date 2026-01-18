@@ -31,7 +31,7 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 <div align="left">
 
-- 🌱 I'm currently learning **To have more knowledge in building projects and also dsa **
+- 🌱 I'm currently learning more about project structures to have knowledge in building projects and also working on dsa.
 
 </div>
 
