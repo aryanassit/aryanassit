@@ -32,24 +32,20 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 ### LIBROHUB
 
-<img src=""C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-01-18 112005.png"" alt="LIBROHUB" width="500"/>
+<img src="""" alt="LIBROHUB" width="500"/>
 
 ## 🎓 Education
 
 | Institution | Degree | Duration |
 |---|---|---|
-| K.R MANGALAM UNIVERSITY | BTECH CSE |  -  |
+| K.R MANGALAM UNIVERSITY | BTECH CSE | 2024 - 2028 |
 
 ### BTECH CSE in COMPUTER SCIENCE
-*K.R MANGALAM UNIVERSITY*
+*K.R MANGALAM UNIVERITY*
 
-## 💼 Internships
 
-| Company | Position | Duration |
-|---|---|---|
-|  |  |  -  |
 
-###  at 
+
 
 ## 📞 Contact & Links
 
