@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOOOO.png" width="1000" />
+  <img src="YOOOO.png" width="900" />
 </p>
 
 # Hi 👋, I'm ARYAN
