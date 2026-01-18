@@ -43,7 +43,7 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 ### LIBROHUB
 <p align="center">
-  <img src="Screenshot 2026-01-18 112005.png" width="1000" />
+  <img src="Screenshot 2026-01-18 112005.png" width="700" />
 </p>
 
 ## 🎓 Education
