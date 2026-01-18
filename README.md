@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""C:\Users\Dell\Downloads\ChatGPT Image Jan 18, 2026, 11_12_48 AM.png"" alt="Profile Banner" width="100%" />
+  <img src=""asset.png"" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ### A passionate developer from gurugram
 
-<img src=""C:\Users\Dell\Downloads\ChatGPT Image Jan 18, 2026, 11_12_48 AM.png"" alt="[ARYAN]" width="150" height="150" style="border-radius: 50%;" />
+<img src=""asset.png"" alt="[ARYAN]" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
