@@ -43,7 +43,7 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 ### LIBROHUB
 
-<img src="""" alt="LIBROHUB" width="500"/>
+<img src=""""/>
 
 ## 🎓 Education
 
