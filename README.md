@@ -42,8 +42,9 @@ I'm a student with a keen interest in frontend web development. I love creating 
 | LIBROHUB |  An online library management system for browsing, searching, and managing book collections. Includes user authentication, recommendations, and an admin panel. | [GitHub](https://github.com/aryanassit/library-system.git) |
 
 ### LIBROHUB
-
-<img src=""Screenshot 2026-01-18 112005.png""/>
+<p align="center">
+  <img src="Screenshot 2026-01-18 112005.png" width="1000" />
+</p>
 
 ## 🎓 Education
 
