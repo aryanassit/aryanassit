@@ -1,89 +1,102 @@
-# Hi, I'm Aryan Sharma! 👋
+<div align="center">
+  <img src=""C:\Users\Dell\Downloads\ChatGPT Image Jan 18, 2026, 11_12_48 AM.png"" alt="Profile Banner" width="100%" />
+</div>
 
-**Frontend Developer | Student | Passionate about Building User-Friendly Web Apps**  
-📍 Gurugram, India | 📧 aryansharma081506@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sharma-584a16378/) 
+<div align="center">
+
+# Hi 👋, I'm ARYAN
+
+### A passionate developer from gurugram
+
+<img src=""C:\Users\Dell\Downloads\ChatGPT Image Jan 18, 2026, 11_12_48 AM.png"" alt="ARYAN" width="150" height="150" style="border-radius: 50%;" />
+
+</div>
+
+## 🚀 About Me
 
 I'm a student with a keen interest in frontend web development. I love creating intuitive and responsive digital experiences. Currently exploring new technologies while working on projects like Campus to Corporate and Librohub. Always open to collaborations and learning opportunities!
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 📚 Learning & Knowledge
 
-## 🚀 Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Tools**: Git, VS Code, GitHub  
-- **Learning**: React, Node.js (upcoming)  
-- **Soft Skills**: Problem-Solving, Teamwork, Quick Learner  
+<div align="left">
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanassit&theme=radical&hide_border=true)  
+- 🌱 I'm currently learning **To have more knowledge in building projects and also dsa **
 
-## 🛠️ Featured Projects
-Here are some of my key projects showcasing my frontend skills, along with their benefits:
+</div>
 
-### Campus to Corporate
-- **Description**: A web platform connecting students with corporate opportunities, featuring job listings, internships, and career resources. Built with a focus on mobile responsiveness and user-friendly navigation.  
-- **Technologies**: HTML, CSS, JavaScript, Bootstrap  
-- **Benefits**: Bridges the gap between education and employment, helping students access real-world opportunities; improves career readiness by providing tailored guidance; demonstrates scalable frontend design for high-traffic sites, enhancing user engagement and accessibility.  
-- **Live Demo**: [Link to deployed site, if available]  
-- **Highlights**: Presented in college; received feedback for excellent UX and practical impact.  
+## 🚀 Projects
 
-### Librohub
-- **Description**: An online library management system for browsing, searching, and managing book collections. Includes user authentication, recommendations, and an admin panel.  
-- **Technologies**: HTML, CSS, JavaScript, Basic Backend (e.g., Local Storage)  
-- **Benefits**: Streamlines library operations for users and admins, reducing manual effort; enhances accessibility to educational resources, promoting lifelong learning; showcases interactive UI/UX skills, making digital tools more efficient and user-friendly.  
-- **Live Demo**: [Link to deployed site, if available]  
-- **Highlights**: College project demonstrating interactive frontend design and problem-solving in digital libraries.  
+| Project | Description | Links |
+|---|---|---|
+| LIBROHUB |  An online library management system for browsing, searching, and managing book collections. Includes user authentication, recommendations, and an admin panel. | [GitHub](https://github.com/aryanassit/library-system.git) |
 
-*Check out my repositories for more! These projects highlight my ability to deliver functional, user-centric solutions.*
+### LIBROHUB
 
-## 🌟 Achievements & Contributions
-- Active contributor to open-source projects (e.g., [mention any if applicable]).  
-- Participated in tech workshops and coding clubs during school, building foundational skills.  
-- Completed [number] commits in [timeframe] – building consistency!  
-- **Benefits**: Strengthens community knowledge through shared code; fosters collaboration and networking; enhances personal expertise, leading to better job prospects and innovative contributions.  
+<img src=""C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-01-18 112005.png"" alt="LIBROHUB" width="500"/>
 
-## 📈 Current Focus
-- Enhancing skills in React and full-stack development for broader impact.  
-- Contributing to community projects on GitHub to gain experience and give back.  
-- Seeking internships or collaborations in web development.  
-- **Benefits**: Positions me for career advancement in a competitive field; allows networking with industry professionals; enables creation of innovative solutions that solve real-world problems.  
+## 🎓 Education
 
-## 🎉 Fun Facts
-- I enjoy debugging code while listening to music – it makes problem-solving fun!  
-- Aspiring to build apps that make education more accessible.  
+| Institution | Degree | Duration |
+|---|---|---|
+| K.R MANGALAM UNIVERSITY | BTECH CSE |  -  |
 
-## 📫 Let's Connect!
-Feel free to reach out for collaborations, feedback, or just to chat about tech!  
-- **Email**: aryansharma081506@gmail.com  
-- **GitHub**: [Follow me](https://github.com/aryanassit)  
+### BTECH CSE in COMPUTER SCIENCE
+*K.R MANGALAM UNIVERSITY*
 
+## 💼 Internships
 
+| Company | Position | Duration |
+|---|---|---|
+|  |  |  -  |
 
-<!--
-**Aman-Code31/Aman-Code31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  at 
 
-Here are some ideas to get you started:
+## 📞 Contact & Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
 
-<!--
-**aryanassit/aryanassit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **aryanassit@gmail.com**
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+
+<div align="center">
+
+*I CAN MAKE U LAUGH*
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/aryanassit)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/aryan-sharma-584a16378/)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/aryannsharma01/)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 💻 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 💻 Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
