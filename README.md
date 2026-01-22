@@ -57,7 +57,7 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 <div align="left">
 
-- 📫 How to reach me **aryanassit@gmail.com**
+<h3><i>How to reach me🤝 : aryanassit@gmail.com </i></h3>
 
 </div>
 
