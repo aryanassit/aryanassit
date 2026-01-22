@@ -46,14 +46,7 @@ I'm a student with a keen interest in frontend web development. I love creating 
   <img src="Screenshot 2026-01-18 112005.png" width="500" />
 </p>
 
-## 🎓 Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| K.R MANGALAM UNIVERSITY | BTECH CSE | 2024 - 2028 |
-
-### BTECH CSE in COMPUTER SCIENCE
-*K.R MANGALAM UNIVERITY*
 
 
 
