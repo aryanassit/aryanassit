@@ -77,9 +77,6 @@ I'm a student with a keen interest in frontend web development. I love creating 
 
 </div>
 
-
-
-
 <div align="center">
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
